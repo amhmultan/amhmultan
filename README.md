@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arslan Majid
+- 👋 Hi, I’m Arslan Majid Hussain.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Laravel 9.
 - 💞️ I’m looking to collaborate on Healthcare products.
